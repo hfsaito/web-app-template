@@ -1,5 +1,8 @@
 # web-app-template
 
+## Description
+A simple template with useful packages to build a web application
+
 ## Instalation
 
 ```bash
