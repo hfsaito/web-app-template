@@ -1,3 +1,3 @@
-import { setupApp } from './app';
+import { setup } from './core';
 
-setupApp();
+setup();
